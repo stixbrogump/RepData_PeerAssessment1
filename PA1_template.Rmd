@@ -4,7 +4,7 @@ output:
   html_document:
     keep_md: true
 ---
-
+Note: for ease of marking, view the PA1_template.md file
 
 ## Loading and preprocessing the data.
 ```{r}
